@@ -1,6 +1,6 @@
 # Daniel Smith `@rdnlsmith`
 
-Hi! I'm Daniel. I write software. (Mostly not on GitHub 😕)
+Hi! I'm Daniel. I write software. (Mostly not on GitHub 😕) Right now, I work as a small-team, full-stack internal corporate developer.
 
 ## Me as a developer
 
